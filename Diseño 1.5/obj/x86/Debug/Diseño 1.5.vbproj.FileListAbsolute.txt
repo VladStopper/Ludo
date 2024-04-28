@@ -1,0 +1,200 @@
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+C:\Users\Nacho\AppData\Local\Temporary Projects\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form3.resources
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form3.resources
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+D:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form3.resources
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+E:\logica\Proyecto LUDO\Diseño 1.5\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+D:\logica\Proyecto LUDO\Diseño 1.7 - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño 1.7 - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño 1.7 - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form3.resources
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form3.resources
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+E:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+D:\logica\Proyecto LUDO\Diseño 1.7\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+E:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+D:\logica\Proyecto LUDO\Diseño Final\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+F:\Ludo - Diseño\Diseño 1.9\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Diseño 1.9\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi terminado\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo casi - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Cantidad_Jugadores.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Cantidad_Jugadores.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+C:\Users\LxveTryHard\OneDrive\Escritorio\Ludo 99% terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Cantidad_Jugadores.resources
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+F:\1 lab\Ludo version\Ludo terminado\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Cantidad_Jugadores.resources
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+E:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
+F:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+F:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+F:\1 lab\Ludo version\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.exe
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.xml
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.pdb
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\bin\Debug\Diseño 1.5.exe
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\bin\Debug\Diseño 1.5.pdb
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\bin\Debug\Diseño 1.5.xml
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Cantidad_Jugadores.resources
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form1.resources
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form2.resources
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Regla4.resources
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Form4.resources
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño_1._5.Resources.resources
+D:\Colegio\Juegos\Ludo terminado - copia\Diseño 1.5\obj\x86\Debug\Diseño 1.5.vbproj.GenerateResource.Cache
